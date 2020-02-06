@@ -2,7 +2,7 @@
     <string name="app_name">Higher Lower</string>
     <string name="explain_text">Guess if the next throw is going to be lower, equal or higher.</string>
     <string name="text_lower">Lower</string>
-    <string name="text_equal">Equal</string>
+    <string name="text_equal">Equals</string>
     <string name="text_higher">Higher</string>
     <string name="dice_image_text">Image of dice</string>
     <string name="last_throw_text">Last Throw: %d</string>
