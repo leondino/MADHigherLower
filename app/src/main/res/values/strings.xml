@@ -6,4 +6,6 @@
     <string name="text_higher">Higher</string>
     <string name="dice_image_text">Image of dice</string>
     <string name="last_throw_text">Last Throw: %d</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, better luck next time!</string>
 </resources>
